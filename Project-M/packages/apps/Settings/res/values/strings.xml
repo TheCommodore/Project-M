@@ -37,7 +37,7 @@
     <string name="device_info_default">Unknown</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
     <plurals name="show_dev_countdown">
-        <item quantity="one">You are now just <xliff:g id="step_count">%1$d</xliff:g> step away from enabling development settings.</item>
+        <item quantity="one">You are <xliff:g id="step_count">%1$d</xliff:g> step away from enabling development settings.</item>
         <item quantity="other">You are now <xliff:g id="step_count">%1$d</xliff:g> steps away from enabling development settings.</item>
     </plurals>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
@@ -5186,7 +5186,7 @@ Please dont blame MBQ if your device goes boom</string>
     <string name="navring_target_reset">Navigation bar shortcuts reset to default</string>
     <string name="navring_target_save">Navigation bar shortcuts saved</string>
     <string name="navring_action_open_ime_switcher">Open IME Switcher</string>
-    <string name="navring_action_kill_app">Kill app</string>
+    <string name="navring_action_kill_app">Kill the app</string>
     <string name="navring_action_none">None</string>
     <string name="navring_action_take_screenshot">Take screenshot</string>
     <string name="navring_action_ring_vibrate">Ring/Vibration</string>
